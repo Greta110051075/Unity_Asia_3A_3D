@@ -57,7 +57,15 @@ namespace greta
 
             string dialogue = dialogueOpening.dialogueContent[0];
 
-            yield return dialogueInterval;
+            for ( int i = 0; i < dialogue.Length; i++) 
+            {
+                textContent.text += dialogue[i];
+                yield return dialogueInterval;
+            }
+
+            goTriangle.SetActive(true);
+
+            
         }
     }
 }
