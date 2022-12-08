@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3142b83d6f44bb54795abf6311423084, type: 3}
   m_Name: OpenDialogue Data
   m_EditorClassIdentifier: 
-  dialogueName: 
+  dialogueName: TEST
   dialogueContent:
   - "\u597D\u9913......\u597D\u9913......"
