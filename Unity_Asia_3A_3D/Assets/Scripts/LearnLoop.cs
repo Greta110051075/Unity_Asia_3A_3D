@@ -19,6 +19,18 @@ namespace greta
             {
                 print("%迴圈 :" + number);
             }
+            if (true) 
+            {
+                print("當 () 內的布林值為 true 執行");
+            }
+            int count = 0;
+
+            while (count < 5) 
+            {
+                print("當 () 內的布林值為 true 執行");
+                print("while 迴圈數字 :" + count);
+                count++;
+            }
     }   
         }
  

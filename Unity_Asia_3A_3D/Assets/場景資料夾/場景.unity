@@ -1748,7 +1748,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &360154437
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6182,7 +6182,7 @@ Animator:
   m_GameObject: {fileID: 1553314828}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fe224e4e8eb09be46bea83a936ceee72, type: 2}
+  m_Controller: {fileID: 9100000, guid: d76bc87593b0d7940b9f5d0484f318a2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -6833,7 +6833,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 640, y: -291}
+  m_AnchoredPosition: {x: 640, y: -540}
   m_SizeDelta: {x: 500, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1753196562
@@ -7531,6 +7531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueIntervalTime: 0.1
   dialogueOpening: {fileID: 11400000, guid: b0ac4c451bc640442a926d2b6f822e38, type: 2}
+  dialogueKey: 323
 --- !u!1001 &1869734569
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8330,7 +8331,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2031209401
 MonoBehaviour:
   m_ObjectHideFlags: 0
